@@ -63,3 +63,4 @@ Specify the license under which this app is released
 ## Contact
 
 Your contact information or where to report issues
+Konsta Venn - konsta.venn@gmail.com
